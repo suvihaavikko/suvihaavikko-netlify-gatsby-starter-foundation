@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Mupsuti mupsu
 tagline: härpäti härpäti
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/team-cats.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
