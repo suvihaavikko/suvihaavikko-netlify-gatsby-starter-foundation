@@ -5,6 +5,7 @@ title: Ota yhteyttä
 ---
 Suvi Haavikko
 
-suvi.haavikko@gmail.com
+<mailto:suvi.haavikko@gmail.com>
 
-Just send us a message using the form below or you can send us a DM on [Twitter](https://twitter.com/stackrole)
+[041-3187793](tel:+358413187793)
+
