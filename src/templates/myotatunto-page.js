@@ -34,4 +34,4 @@ const MyotatuntoPage = ({ data }) => {
 	)
 }
 
-export default AboutPage
+export default MyotatuntoPage
