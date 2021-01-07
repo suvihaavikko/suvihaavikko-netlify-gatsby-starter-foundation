@@ -69,15 +69,15 @@ collections:
             - name: "ctaLink"
               label: "CTA Link"
               widget: "string"
-      - label: "About"
-        name: "about"
-        file: "src/content/pages/about.md"
+      - label: "Myötätuntokeskeinen terapia"
+        name: "myotatunto"
+        file: "src/content/pages/myotatunto.md"
         fields:
-        - {label: "Template", name: "template", widget: "hidden", default: "about-page" }
-        - {label: "Slug", name: "slug", widget: "hidden", default: "/about" }
+        - {label: "Template", name: "template", widget: "hidden", default: "myotatunto-page" }
+        - {label: "Slug", name: "slug", widget: "hidden", default: "/myotatunto" }
         - {label: "Title", name: "title", widget: "string"}
         - {label: "Body", name: "body", widget: "markdown"}
-      - label: "Contact"
+      - label: "Yhteystiedot"
         name: "contact"
         file: "src/content/pages/contact.md"
         fields:
