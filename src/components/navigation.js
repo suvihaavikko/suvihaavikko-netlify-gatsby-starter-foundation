@@ -12,6 +12,10 @@ const MenuItems = [
     title: "Myötätuntokeskeinen terapia"
   },
   {
+    path: "/skeematerapia",
+    title: "Skeematerapia"
+  },
+  {
     path: "/blog",
     title: "Blog"
   },

@@ -77,6 +77,14 @@ collections:
         - {label: "Slug", name: "slug", widget: "hidden", default: "/myotatunto" }
         - {label: "Title", name: "title", widget: "string"}
         - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Skeematerapia"
+        name: "skeematerapia"
+        file: "src/content/pages/skeematerapia.md"
+        fields:
+        - {label: "Template", name: "template", widget: "hidden", default: "skeematerapia-page" }
+        - {label: "Slug", name: "slug", widget: "hidden", default: "/skeematerapia" }
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Body", name: "body", widget: "markdown"}
       - label: "Yhteystiedot"
         name: "contact"
         file: "src/content/pages/contact.md"
