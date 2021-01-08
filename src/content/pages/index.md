@@ -1,11 +1,13 @@
 ---
 template: index-page
 slug: /
-title: Mupsuti mupsu
-tagline: härpäti härpäti
+title: Suvi Haavikko
+tagline: Myötätuntokeskeinen terapeutti
 featuredImage: /assets/team-cats.jpg
 cta:
   ctaText: Ota yhteyttä
   ctaLink: /contact
 ---
-Jotain tekstiä tähän
+hyväksyvä kohtaaminen, hyväksyntä, Itsemyötätunto, itsehyväksyntä
+
+hyväksyvä kohtaaminen - terapia- ja Mindfulness-palvelut (tule sellaisena kuin olet)
