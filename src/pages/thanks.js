@@ -17,7 +17,7 @@ const Thanks = () => (
       }}/>
       <h1>Viesti on lähetetty</h1>
       <p>Kiitos viestistäsi. Otan sinuun yhteyttä.</p>
-      <Link to="/" className="button"><RiArrowLeftSLine className="icon -left"/>Siirrytään takaisin etusivulle</Link>
+      <Link to="/" className="button"><RiArrowLeftSLine className="icon -left"/>Takaisin etusivulle</Link>
     </div>
 
   </Layout>

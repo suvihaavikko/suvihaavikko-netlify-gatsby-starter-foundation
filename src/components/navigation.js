@@ -23,10 +23,12 @@ const MenuItems = [
     path: "/hinnasto",
     title: "Hinnasto"
   },
+    /*
   {
     path: "/blog",
     title: "Blog"
   },
+     */
   {
     path: "/contact",
     title: "Yhteystiedot"
