@@ -5,7 +5,7 @@ title: Myötätuntokeskeinen terapia
 ---
 Testi testi testi
 
-aaa bbb
+Myötätuntokeskeinen terapia ... ... ..  .. . .. . 
 
 ![Toys](/assets/vanessa-bucceri-gdirwiyama8-unsplash.jpg "Toys")
 

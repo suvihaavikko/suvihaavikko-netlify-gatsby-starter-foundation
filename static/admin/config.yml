@@ -85,6 +85,22 @@ collections:
         - {label: "Slug", name: "slug", widget: "hidden", default: "/skeematerapia" }
         - {label: "Title", name: "title", widget: "string"}
         - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Mindfulness"
+        name: "mindfulness"
+        file: "src/content/pages/mindfulness.md"
+        fields:
+        - {label: "Template", name: "template", widget: "hidden", default: "mindfulness-page" }
+        - {label: "Slug", name: "slug", widget: "hidden", default: "/mindfulness" }
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Hinnasto"
+        name: "hinnasto"
+        file: "src/content/pages/hinnasto.md"
+        fields:
+        - {label: "Template", name: "template", widget: "hidden", default: "hinnasto-page" }
+        - {label: "Slug", name: "slug", widget: "hidden", default: "/hinnasto" }
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Body", name: "body", widget: "markdown"}
       - label: "Yhteystiedot"
         name: "contact"
         file: "src/content/pages/contact.md"

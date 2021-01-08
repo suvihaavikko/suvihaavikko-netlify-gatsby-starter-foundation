@@ -16,6 +16,14 @@ const MenuItems = [
     title: "Skeematerapia"
   },
   {
+    path: "/mindfulness",
+    title: "Mindfulness"
+  },
+  {
+    path: "/hinnasto",
+    title: "Hinnasto"
+  },
+  {
     path: "/blog",
     title: "Blog"
   },
