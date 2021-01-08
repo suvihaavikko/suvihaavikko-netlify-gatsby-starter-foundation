@@ -5,6 +5,9 @@ import { RiArrowDownLine, RiArrowRightSLine } from "react-icons/ri"
 import PostCard from "./post-card"
 
 const PostMaker = ({ data }) => (
+    <section className="home-posts">
+    </section>
+    /*
   <section className="home-posts">
     <h2>Latest in <strong>Blog</strong> <span class="icon -right"><RiArrowDownLine/></span></h2>
     <div className="grids col-1 sm-2 lg-3">
@@ -12,6 +15,8 @@ const PostMaker = ({ data }) => (
     </div>
     <Link className="button" to="/blog">See more<span class="icon -right"><RiArrowRightSLine/></span></Link>
   </section>
+
+     */
 )
 
 export default function BlogListHome() {
